@@ -8,6 +8,8 @@ This will enabled admins and non-admins to enroll batches of (ideally similar) C
 Just turn the device on and plug the programmed Digispark in. 
 Note that passwords are hardcoded and will be "typed" into e.g. a text editor window on any computer when plugged in.
 
+A similar sketch is available to install ChromeOS semi-automatically (post booting from USB in the BIOS): https://github.com/marcexec/CrOSser-Flex
+
 ## Updates
 * 2023-10-24 V1.0.0 commit
 
