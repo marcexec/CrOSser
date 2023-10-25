@@ -17,5 +17,7 @@ A similar sketch is available to install ChromeOS semi-automatically (post booti
 
 The Ardunio sketch basically just emulates timed key presses of a USB keyboard. It's crude but adaptable and the code should be easy to follow and adjust e.g. to skip WiFi when a wired connection is available or you have slower devices (ChromeOS Flex, https://support.google.com/chromeosflex/answer/11552529) and want to increase delays.
 
+Requires https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
+
 ## Getting Started
 I have a full writeup, including the Arduino IDE setup on ChromeOS on the CitrixIE blog: https://citrixie.wordpress.com/2023/03/02/using-5-open-source-hardware-for-chromeos-enterprise-enrollment-and-chromeos-flex-installation/
